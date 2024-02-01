@@ -1,0 +1,39 @@
+.guessing-game {
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #bdc2bf;
+  border-radius: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  padding: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #989c94;
+  color: #25291c;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #7a7d77;
+}
+
+.feedback {
+  font-size: 16px;
+  margin-top: 20px;
+  color: #333;
+}
