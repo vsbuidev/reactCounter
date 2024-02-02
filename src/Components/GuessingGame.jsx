@@ -51,7 +51,9 @@ const GuessingGame = () => {
         onChange={handleInputChange}
         placeholder="Enter your guess"
       />
-      <button onClick={handleGuess}>Submit Guess</button>
+      <button className="button" onClick={handleGuess}>
+        Submit
+      </button>
       <p className="feedback">{feedback}</p>
     </div>
   );
