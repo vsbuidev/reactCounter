@@ -26,29 +26,34 @@ ul {
 
 li {
   margin: 0 10px;
+  padding: 8px;
+  cursor: pointer;
+  background-color: #bdc2bf;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+li:hover {
+  background-color: #7a7d77;
 }
 
 a {
   text-decoration: none;
-  color: #989c94;
+  color: #25291c;
   font-weight: bold;
-  font-size: 18px;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: #bdc2bf;
+  font-size: 16px;
 }
 
 @media (min-width: 600px) {
-  .game,
+  .guessing-game,
   .tic-tac-toe {
     width: 50%;
   }
 }
 
 @media (min-width: 1024px) {
-  .game,
+  .guessing-game,
   .tic-tac-toe {
     width: 30%;
   }

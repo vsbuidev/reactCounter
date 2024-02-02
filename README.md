@@ -5,6 +5,7 @@ A simple React application featuring a collection of Mini App Ideas. Each Mini-A
 ## Table of Contents
 
 - [Features](#features)
+- [Preview](#preview)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
@@ -15,7 +16,13 @@ A simple React application featuring a collection of Mini App Ideas. Each Mini-A
 
 - **Counter Mini-App:** A basic interactive counter that increments or decrements based on user interaction.
 - **Tic Tac Toe Mini-App:** Classic tic-tac-toe game with a responsive grid layout.
-- **Guessing Mini-App:** A number guessing game where the user tries to guess a random number.
+- **Guessing Game Mini-App:** A number guessing game where the user tries to guess a random number.
+
+## Preview
+
+![Counter](./src/Preview/counter.jpeg)
+![Tic Tac Toe](./src/Preview/tic-tac-toe.jpeg)
+![Guessing Game](./src/Preview/guessing-game.jpeg)
 
 ## Setup
 
@@ -64,7 +71,3 @@ The project follows a simple folder structure:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-```
