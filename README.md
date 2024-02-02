@@ -21,8 +21,8 @@ A simple React application featuring a collection of Mini App Ideas. Each Mini-A
 ## Preview
 
 ![Counter](./src/Preview/counter.jpeg)
-![Tic Tac Toe](./src/Preview/tic-tac-toe.jpeg)
 ![Guessing Game](./src/Preview/guessing-game.jpeg)
+![Tic Tac Toe](./src/Preview/tic-tac-toe.jpeg)
 
 ## Setup
 
